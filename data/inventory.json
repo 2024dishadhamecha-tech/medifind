@@ -1,0 +1,2088 @@
+[
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m1",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T23:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m2",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m3",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T12:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m5",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m6",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T15:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m7",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T20:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m8",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T15:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m11",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T08:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m12",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m14",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T15:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m15",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T23:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m16",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T08:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m18",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T12:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m20",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m21",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T23:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m22",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T02:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m23",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T21:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m24",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T16:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m25",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T22:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m26",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T17:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m28",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T08:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m29",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T12:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p1",
+    "medicineId": "m30",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T16:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m2",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T08:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m3",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T03:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T20:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m6",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T00:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m8",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T04:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m10",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T16:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m11",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T15:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m12",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m14",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m15",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T05:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m16",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T06:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m18",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T18:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m20",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T12:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m21",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T10:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m22",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T19:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m24",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T18:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m26",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T18:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m27",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T00:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p2",
+    "medicineId": "m28",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T05:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m1",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T20:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m2",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T00:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m3",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T18:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T21:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m5",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T02:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m7",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T02:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m8",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T17:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m11",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T23:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m12",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T07:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m13",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T22:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m14",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T05:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m15",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T13:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m16",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T20:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m17",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T12:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m18",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T08:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m19",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T19:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m20",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T20:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m21",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T09:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m22",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m23",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T02:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m24",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T10:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m25",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T20:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m26",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T03:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m27",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m28",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T18:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m29",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T05:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p3",
+    "medicineId": "m30",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T14:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m1",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T21:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T10:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m5",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T20:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m6",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T01:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m7",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T09:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m10",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T16:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m11",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T01:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m12",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T20:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m13",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T15:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m14",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T16:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m15",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T11:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m16",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T08:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m17",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T16:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m18",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T00:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m20",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T22:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m22",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T00:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m23",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T04:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m24",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T08:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m25",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T10:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m26",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T15:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m27",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T13:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m28",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T16:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m29",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T02:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p4",
+    "medicineId": "m30",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T19:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m1",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T20:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m2",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T11:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m3",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T04:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T22:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m5",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T23:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m6",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T15:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m8",
+    "status": "low_stock",
+    "updatedAt": "2026-11-16T04:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m10",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T23:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m11",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T09:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m12",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T04:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m13",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T13:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m15",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T23:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m16",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T13:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m19",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-16T04:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m20",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m21",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T12:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m24",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T04:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m25",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m26",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T06:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m27",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T13:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m28",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T20:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p5",
+    "medicineId": "m30",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T14:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m1",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T11:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m2",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T02:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m3",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T16:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T14:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m6",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T14:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m7",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T09:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m9",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T22:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m10",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T10:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m12",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T14:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m13",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T21:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m14",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T04:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m16",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T11:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m17",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T17:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m18",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T00:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m19",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T11:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m21",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T07:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m22",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T12:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m25",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T03:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m26",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m27",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T01:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m28",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T18:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p6",
+    "medicineId": "m30",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T18:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m1",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T14:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m2",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m3",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T06:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T10:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m5",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T04:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m6",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T14:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m7",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T14:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m8",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T11:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m9",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T21:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m11",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T22:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m12",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T20:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m13",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T17:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m14",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T14:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m15",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T14:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m16",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T20:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m17",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T23:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m18",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T08:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m19",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T19:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m20",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T10:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m21",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T05:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m22",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m23",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T11:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m25",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T15:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m26",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T23:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m27",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T20:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m29",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T13:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p7",
+    "medicineId": "m30",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T12:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m2",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T12:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m3",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T12:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m5",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T00:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m7",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T11:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m8",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T06:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m9",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T04:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m10",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T15:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m11",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T17:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m12",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T13:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m13",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T14:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m14",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T19:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m15",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T02:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m16",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T07:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m18",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T01:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m19",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T11:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m20",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T21:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m21",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T03:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m23",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T15:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m24",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T00:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m25",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T01:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m26",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m27",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T18:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p8",
+    "medicineId": "m30",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T16:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m1",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m2",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T03:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m3",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T20:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m5",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T06:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m6",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T13:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m7",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T18:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m10",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T16:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m11",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T06:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m12",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T05:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m13",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T13:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m14",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T23:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m15",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T22:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m18",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T01:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m19",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T11:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m20",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T09:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m22",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T14:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m24",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T08:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m25",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T19:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m26",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m28",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m29",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-16T01:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p9",
+    "medicineId": "m30",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T13:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m3",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T17:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T10:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m5",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T22:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m6",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T03:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m7",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m8",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T20:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m10",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T15:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m11",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T06:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m12",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T16:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m13",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T09:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m14",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T09:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m15",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T22:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m16",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T19:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m22",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m23",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T10:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m26",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T22:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m27",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T06:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m28",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T12:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m29",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T01:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p10",
+    "medicineId": "m30",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T07:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m1",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-16T02:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m2",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T09:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m3",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m5",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T07:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m6",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m7",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T17:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m8",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T04:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m10",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T07:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m12",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T07:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m14",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T12:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m16",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T15:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m19",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T13:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m20",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T20:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m21",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T18:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m22",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T20:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m25",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T00:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m26",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T00:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m27",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T14:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m28",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T18:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p11",
+    "medicineId": "m30",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T03:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m1",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T21:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m2",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T01:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m3",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T19:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m4",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T18:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m5",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T11:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m6",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T20:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m7",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T20:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m8",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T02:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m9",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T17:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m10",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T00:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m11",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T21:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m12",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T06:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m13",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T21:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m14",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m15",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T19:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m16",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T22:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m17",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T14:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m18",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T02:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m19",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T07:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m21",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T04:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m23",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T04:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m24",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T21:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m25",
+    "status": "in_stock",
+    "updatedAt": "2026-11-13T13:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m26",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-15T06:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m27",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T23:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m29",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T18:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p12",
+    "medicineId": "m30",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T21:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m1",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-14T18:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m2",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T17:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m4",
+    "status": "low_stock",
+    "updatedAt": "2026-11-14T00:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m5",
+    "status": "in_stock",
+    "updatedAt": "2026-11-16T01:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m10",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m12",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T13:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m14",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T16:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m15",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T07:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m17",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T18:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m19",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T15:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m20",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T04:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m22",
+    "status": "low_stock",
+    "updatedAt": "2026-11-13T10:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m24",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T23:49:11.799Z",
+    "reports": 2
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m25",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T18:49:11.799Z",
+    "reports": 1
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m26",
+    "status": "out_of_stock",
+    "updatedAt": "2026-11-13T09:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m27",
+    "status": "in_stock",
+    "updatedAt": "2026-11-14T23:49:11.799Z",
+    "reports": 4
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m28",
+    "status": "in_stock",
+    "updatedAt": "2026-11-15T14:49:11.799Z",
+    "reports": 3
+  },
+  {
+    "pharmacyId": "p13",
+    "medicineId": "m30",
+    "status": "low_stock",
+    "updatedAt": "2026-11-15T22:49:11.799Z",
+    "reports": 1
+  }
+]

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MediFind – Find medicines at nearby pharmacies</title>
+  <meta name="description" content="Search for a medicine and see which nearby pharmacies report it in stock." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <div class="topbar">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true">+</span>
+          <span class="brand-name">MediFind</span>
+        </div>
+        <div id="authBar" class="auth-bar">
+          <button type="button" id="loginBtn" class="btn btn-ghost">Log in</button>
+          <button type="button" id="registerBtn" class="btn btn-ghost">Register</button>
+        </div>
+      </div>
+      <h1>Find your medicine, fast.</h1>
+      <p class="tagline">Check which nearby pharmacies have it in stock before you step out — with their address and phone number.</p>
+
+      <form id="searchForm" class="search" role="search" autocomplete="off">
+        <label for="q" class="sr-only">Medicine name</label>
+        <input id="q" name="q" type="search" list="suggestions" placeholder="Search a medicine, e.g. Paracetamol, Dolo, Metformin" required minlength="2" />
+        <datalist id="suggestions"></datalist>
+        <button type="submit" class="btn btn-primary">Search</button>
+      </form>
+
+      <div class="controls">
+        <button type="button" id="locBtn" class="btn btn-ghost">📍 Use my location</button>
+        <label class="check">
+          <input type="checkbox" id="onlyAvailable" />
+          <span>Hide out-of-stock</span>
+        </label>
+        <span id="locStatus" class="muted" aria-live="polite"></span>
+      </div>
+
+      <div class="chips" aria-label="Popular searches">
+        <span class="muted">Popular:</span>
+        <button class="chip" type="button">Paracetamol</button>
+        <button class="chip" type="button">Dolo 650</button>
+        <button class="chip" type="button">Metformin</button>
+        <button class="chip" type="button">Azithromycin</button>
+        <button class="chip" type="button">Pantoprazole</button>
+        <button class="chip" type="button">Insulin</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="message" class="message" role="status" aria-live="polite">
+      Search for a medicine above to see which pharmacies have it.
+    </div>
+    <section id="results" aria-live="polite"></section>
+  </main>
+
+  <footer class="container footer">
+    <p><strong>Please note:</strong> Availability is <em>reported</em> and may be out of date. Always call the pharmacy to confirm before travelling. MediFind does not give medical advice — follow your doctor's prescription.</p>
+    <p class="muted">Demo build: pharmacy names, phone numbers and stock data are sample data.</p>
+  </footer>
+
+  <!-- Admin only (the server enforces this too) -->
+  <dialog id="reportDialog">
+    <form method="dialog" id="reportForm">
+      <h2>Update availability</h2>
+      <p id="reportTarget" class="muted"></p>
+      <fieldset>
+        <legend class="sr-only">Availability</legend>
+        <label class="radio"><input type="radio" name="status" value="in_stock" required /> ✅ Available</label>
+        <label class="radio"><input type="radio" name="status" value="low_stock" /> ⚠️ Low stock</label>
+        <label class="radio"><input type="radio" name="status" value="out_of_stock" /> ❌ Unavailable</label>
+      </fieldset>
+      <label class="field">Stock quantity <span class="muted">(optional)</span>
+        <input type="number" id="reportQty" name="quantity" min="0" max="100000" step="1" inputmode="numeric" placeholder="e.g. 40" />
+      </label>
+      <p id="reportError" class="form-error" role="alert"></p>
+      <div class="dialog-actions">
+        <button type="button" id="reportCancel" class="btn btn-ghost">Cancel</button>
+        <button type="submit" class="btn btn-primary">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="authDialog">
+    <form method="dialog" id="authForm">
+      <h2 id="authTitle">Log in</h2>
+      <label class="field" id="nameField" hidden>Name
+        <input type="text" id="authName" autocomplete="name" maxlength="60" />
+      </label>
+      <label class="field">Email
+        <input type="email" id="authEmail" autocomplete="email" required />
+      </label>
+      <label class="field">Password
+        <input type="password" id="authPassword" autocomplete="current-password" minlength="8" required />
+      </label>
+      <p id="authError" class="form-error" role="alert"></p>
+      <div class="dialog-actions">
+        <button type="button" id="authCancel" class="btn btn-ghost">Cancel</button>
+        <button type="submit" id="authSubmit" class="btn btn-primary">Log in</button>
+      </div>
+      <p class="muted switch">
+        <span id="authSwitchText">New here?</span>
+        <button type="button" id="authSwitch" class="link-btn">Create an account</button>
+      </p>
+    </form>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

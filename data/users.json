@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u1",
+    "name": "Demo Admin",
+    "email": "admin@medifind.test",
+    "passwordHash": "36529b2d5cd1389f4510638fbe7144ce:ceaad81068bb33eff6fa8d5a002dbb40593aa2e7cf4bdce199c70dcb788f1fa0f954f583ad19d81ce4472d5f2c33166b54e85e8a754bbf6be20d6f363b81aea3",
+    "role": "admin",
+    "createdAt": "2026-11-16T06:49:11.791Z"
+  },
+  {
+    "id": "u2",
+    "name": "Demo Pharmacy Staff",
+    "email": "staff@medifind.test",
+    "passwordHash": "bdc4f3008891209190fd39cbf35166fc:5fdc2acb5685bd03bf9eae5a339bf4488f8df696460d8fcbd264c227ab77082f15f3be5582b2ffc4896c21449d7109389be805926ed33059010b7fec104cc6a0",
+    "role": "pharmacy_staff",
+    "createdAt": "2026-11-16T06:49:11.792Z"
+  },
+  {
+    "id": "u3",
+    "name": "Demo User",
+    "email": "user@medifind.test",
+    "passwordHash": "2ee18447390d0dfca319e4d0d18c54be:38260c867b5ef4db3efedd1819e9923b7550bb887850d5f9d8a723c0a03de496eac0d6898af8019759c35e9d1c3dd05692362745619721a613f725a855a531b7",
+    "role": "user",
+    "createdAt": "2026-11-16T06:49:11.792Z"
+  }
+]

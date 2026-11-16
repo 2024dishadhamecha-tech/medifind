@@ -1,0 +1,5 @@
+node_modules/
+data/inventory.json
+data/users.json
+data/.jwt-secret
+.env
